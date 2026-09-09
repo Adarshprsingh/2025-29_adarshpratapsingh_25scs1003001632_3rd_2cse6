@@ -6,14 +6,14 @@ I have uploaded the required **Internship Report** and **Internship Presentation
 
 I have also attached the **email proof/request sent to the organization regarding the Internship Experience Letter/Certificate**.
 
-The organization has informed me that the certificate will be provided shortly. I will upload the official **Internship Experience Letter/Certificate** to this repository as soon as I receive it.
+I have also uploaded the official **Internship Experience Letter/Certificate** to this repository.
 
 ### Uploaded Documents
 
 - 📄 Internship Evaluation Report
 - 📊 Internship Evaluation Presentation (PPT)
 - 📧 Email Proof for Internship Certificate Request
-- 📜 Internship Experience Letter/Certificate — **Will be uploaded after receiving it**
+- 📜 Internship Experience Letter/Certificate 
 
 Thank you for your consideration.
 
