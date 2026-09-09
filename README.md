@@ -22,4 +22,4 @@ Thank you for your consideration.
 **Program:** B.Tech CSE  
 **Organization:** QualityKiosk Technologies Pvt. Ltd.  
 **Role:** Python Developer Intern  
-**Internship Period:** 10 June 2026 – 10 August 2026
+**Internship Period:** 25 June 2026 – 25 August 2026
